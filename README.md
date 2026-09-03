@@ -25,4 +25,4 @@ I am currently learning and improving my skills in SQL, Python, Power BI and Exc
 💼 Start my career as a Data Analyst
 
 ## Connect With Me
-- LinkedIn: Coming Soon
+- LinkedIn: https://www.linkedin.com/in/sahilkumar2005
