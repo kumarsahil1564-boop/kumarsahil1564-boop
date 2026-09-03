@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sahil Kumar 👋
 
-<!--
-**kumarsahil1564-boop/kumarsahil1564-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+## About Me
+I am a BCA student interested in Data Analytics and Business Intelligence.
+I am currently learning and improving my skills in SQL, Python, Power BI and Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SQL
+- Python
+- Power BI
+- Microsoft Excel
+- Data Analysis
+
+## Currently Learning
+- Data Analytics
+- Python with Pandas
+- SQL
+- Power BI
+
+## Goals
+🚀 Build real-world Data Analytics projects  
+📈 Improve my analytical and technical skills  
+💼 Start my career as a Data Analyst
+
+## Connect With Me
+- LinkedIn: Coming Soon
